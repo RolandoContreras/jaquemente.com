@@ -22,9 +22,9 @@
 | a PHP script and you can easily do that on your own.
 |
 */
-//$config['base_url'] = 'http://theempirefxc.com/';
+$config['base_url'] = 'http://jaquemente.com/';
 
-$config['base_url'] = 'http://localhost/empire/';
+//$config['base_url'] = 'http://localhost/jaquemente.com/';
 
 
 /*
