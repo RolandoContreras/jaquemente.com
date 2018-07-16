@@ -51,16 +51,16 @@
 </div>
 <!--/PRELOADER-->
 
-	<div id="home_slider"><script type="text/javascript">window.globalDateVar = "2017/12/7 00:00";</script>
+	<div id="home_slider"><script type="text/javascript">window.globalDateVar = "2018/08/17 00:00";</script>
             <section class="autoheight home_slider"><section class="inner-slider">
                     <div class="youtube_overlay" style="background-image:url('http://multia.in/theme/wordpress/mievent/music/wp-content/uploads/2014/12/bg_pattern.png');"></div>
                     <div class="video-bg" style="background-image:url('http://multia.in/theme/wordpress/mievent/coming-soon/wp-content/themes/mievent/site/img/backgrounds/bg1.jpg');"></div>
                     <div class="youtube"><div id="slider_5a1cb62e3844f"></div></div>
                     <div class="col-lg-12 coming-landing-text-pos image_content align-center">
                         <a class="coming-brand" href="">
-                            <img src="<?php echo site_url().'static/page_front/images/logo/jaquemente-logo.png';?>" alt="logo" width="400"/>
+                            <img src="<?php echo site_url().'static/page_front/images/logo/jaquemente.png';?>" alt="logo" width="450"/>
                         </a>
-                        <h1 class="wow animated fadeInDown" data-wow-duration="1s" data-wow-delay="1s" style="color:#FFFFFF">Jaquea tu mente y empieza a volar</h1>
+                        <h1 class="wow animated fadeInDown" data-wow-duration="1s" data-wow-delay="1s" style="color:#FFFFFF">APRENDE COMO HACKEAR PARA JAQUEAR TU MENTE</h1>
                         <hr id="title_hr"/><div id="defaultCountdown" class="clearfix"></div><div class="notify-by-email"><div class="row form-notify">
                                 <h2 class="notify">Notificarme</h2>
                                 <form action="" method="POST" id="slider_5a1cb62e3844f" class="ajax-form">
